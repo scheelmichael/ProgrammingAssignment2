@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 
 ## I have made my first edits to this file
-
+## now I have made my second edits to this file
 
 makeCacheMatrix <- function(x = matrix()) {
 
