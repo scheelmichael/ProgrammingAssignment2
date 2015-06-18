@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Put comments here that give an overall description of what your functions do
 
 ## This function creates a special "matrix" object that can cache its inverse
 ## it will create a list containing the original matrix and the inverse of if
